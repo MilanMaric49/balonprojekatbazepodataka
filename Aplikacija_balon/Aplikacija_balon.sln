@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplikacija_balon", "Aplikacija_balon.csproj", "{B3007DAE-8D4B-4DA9-8AAC-85DFBDA0CB83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3007DAE-8D4B-4DA9-8AAC-85DFBDA0CB83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3007DAE-8D4B-4DA9-8AAC-85DFBDA0CB83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3007DAE-8D4B-4DA9-8AAC-85DFBDA0CB83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3007DAE-8D4B-4DA9-8AAC-85DFBDA0CB83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E00C7DAB-1D5A-4DF0-A67B-1B77165CD87B}
+	EndGlobalSection
+EndGlobal
